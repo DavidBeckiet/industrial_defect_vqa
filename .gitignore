@@ -1,0 +1,25 @@
+# Dataset
+dataset/
+
+# Weights
+weights/
+*.pt
+images/
+# Cache
+*.cache
+seg_dataset/
+# Training outputs
+runs/
+segmentations/
+segmentation/
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
